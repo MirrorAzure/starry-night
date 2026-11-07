@@ -66,7 +66,91 @@ window.STARRY_CONFIG = {
     view: 'full-body',
     description: 'Управленец сообщества. Айсмен отвечает за философию и творческое направление Starry Night.\nЯ архитектор!🍹',
     isDemo: false
-}
+},
+{
+    name: 'SHIVNYA9726',
+    role: 'Игрок',
+    view: 'head',
+    description: '',
+    isDemo: false
+},
+{
+    name: 'Limon8546',
+    role: 'Игрок',
+    view: 'head',
+    description: '',
+    isDemo: false
+},
+{
+    name: 'DraggyFrog',
+    role: 'Игрок',
+    view: 'head',
+    description: '',
+    isDemo: false
+},
+{
+    name: 'BlackBlackBack',
+    role: 'Игрок',
+    view: 'head',
+    description: '',
+    isDemo: false
+},
+{
+    name: 'Dilk0',
+    role: 'Игрок',
+    view: 'head',
+    description: '',
+    isDemo: false
+},
+{
+    name: 'TLAkER268',
+    role: 'Игрок',
+    view: 'head',
+    description: '',
+    isDemo: false
+},
+{
+    name: 'Ruslan_cursed',
+    role: 'Игрок',
+    view: 'head',
+    description: '',
+    isDemo: false
+},
+{
+    name: 'ElzevirT',
+    role: 'Игрок',
+    view: 'head',
+    description: '',
+    isDemo: false
+},
+{
+    name: 'kimtsuntsun',
+    role: 'Игрок',
+    view: 'head',
+    description: '',
+    isDemo: false
+},
+{
+    name: 'ShamanSay',
+    role: 'Игрок',
+    view: 'head',
+    description: '',
+    isDemo: false
+},
+{
+    name: 'LarInfernal',
+    role: 'Игрок',
+    view: 'head',
+    description: '',
+    isDemo: false
+},
+{
+    name: 'CrimsonSCycles',
+    role: 'Игрок',
+    view: 'head',
+    description: '',
+    isDemo: false
+},
 ],
   // Например: 'Обновлено в ноябре 2026'. Оставьте пустым до добавления статистики.
   membersUpdated: ''
