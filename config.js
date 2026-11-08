@@ -68,7 +68,7 @@ window.STARRY_CONFIG = {
     isDemo: false
 },
 {
-    name: 'SHIVNYA9726',
+    name: 'Ksemsha',
     role: 'Игрок',
     view: 'head',
     description: '',
@@ -89,7 +89,7 @@ window.STARRY_CONFIG = {
     isDemo: false
 },
 {
-    name: 'BlackBlackBack',
+    name: 'BlackTheDragon',
     role: 'Игрок',
     view: 'head',
     description: '',
@@ -146,6 +146,48 @@ window.STARRY_CONFIG = {
 },
 {
     name: 'CrimsonSCycles',
+    role: 'Игрок',
+    view: 'head',
+    description: '',
+    isDemo: false
+},
+{
+    name: 'xbot_random',
+    role: 'Игрок',
+    view: 'head',
+    description: '',
+    isDemo: false
+},
+{
+    name: 'Dusechka',
+    role: 'Игрок',
+    view: 'head',
+    description: '',
+    isDemo: false
+},
+{
+    name: 'avD_qq',
+    role: 'Игрок',
+    view: 'head',
+    description: '',
+    isDemo: false
+},
+{
+    name: 'Xoziain',
+    role: 'Игрок',
+    view: 'head',
+    description: '',
+    isDemo: false
+},
+{
+    name: 'uzanpx',
+    role: 'Игрок',
+    view: 'head',
+    description: '',
+    isDemo: false
+},
+{
+    name: 'Zavergan',
     role: 'Игрок',
     view: 'head',
     description: '',
