@@ -68,6 +68,13 @@ window.STARRY_CONFIG = {
     isDemo: false
 },
 {
+    name: 'THBun',
+    role: 'Игрок',
+    view: 'head',
+    description: '',
+    isDemo: false
+},
+{
     name: 'Ksemsha',
     role: 'Игрок',
     view: 'head',
