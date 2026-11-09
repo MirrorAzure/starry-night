@@ -59,7 +59,7 @@ if (members.length) {
       img.loading = 'eager'; img.decoding = 'async'; img.referrerPolicy = 'no-referrer'; img.hidden = true;
       img.addEventListener('load', () => { if (img.naturalWidth > 0) { img.hidden = false; fallback.hidden = true; } });
       img.addEventListener('error', () => { img.remove(); fallback.hidden = false; }, { once: true });
-      img.src = 'https://api.mcheads.org/' + (fullBody ? 'avatar/' : 'head/') + encodeURIComponent(identifier) + (fullBody ? '/right/256' : '/128'); avatar.append(img);
+      img.src = 'https://api.mcheads.org/' + (fullBody ? 'avatar/' : 'head/') + encodeURIComponent(identifier) + (fullBody ? '/right/256' : '/128/hat'); avatar.append(img);
     }
     const info = document.createElement('div'); info.className = 'member-identity';
     const name = document.createElement('h4'); name.textContent = member.name; info.append(name);
